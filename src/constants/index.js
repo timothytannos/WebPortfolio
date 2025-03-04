@@ -25,6 +25,9 @@ import {
     carrent,
     jobit,
     tripguide,
+    laravel,
+    mysql,
+    flutter,
     threejs,
   } from "../assets";
   
@@ -76,16 +79,16 @@ import {
       icon: javascript,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
+      name: "Laravel",
+      icon: laravel,
     },
     {
       name: "React JS",
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
+      name: "Flutter",
+      icon: flutter,
     },
     {
       name: "Tailwind CSS",
@@ -112,9 +115,10 @@ import {
       icon: figma,
     },
     {
-      name: "docker",
-      icon: docker,
+      name: "mysql",
+      icon: mysql,
     },
+    
   ];
   
   const experiences = [

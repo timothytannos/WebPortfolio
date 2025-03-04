@@ -20,6 +20,9 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import laravel from "./tech/laravel.png";
+import mysql from "./tech/mysql.png";
+import flutter from "./tech/flutter.png";
 
 import meta from "./company/meta.png";
 import bca from "./company/bca.png";
@@ -65,4 +68,7 @@ export {
   jobit,
   tripguide,
   cookpal,
+  laravel,
+  mysql,
+  flutter,
 };
